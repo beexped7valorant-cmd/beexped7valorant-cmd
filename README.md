@@ -1,22 +1,27 @@
+<h1 align="center">🐉 beexped / building BG Copilot</h1>
+
+<p align="center">A Hearthstone Battlegrounds desktop overlay</p>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/beexped7valorant-cmd/beexped7valorant-cmd/main/assets/profile-banner.svg" alt="beexped — game tools and overlays" width="100%" />
-  <h1>beexped</h1>
-  <p><strong>Building a smarter Hearthstone Battlegrounds overlay.</strong></p>
-  <p>Game tools · useful data · clean interfaces</p>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
 </div>
 
----
+### 
 
-### 🎮 What I’m working on
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=beexped7valorant-cmd&theme=bear&show_icons=true&hide_border=true&count_private=false&locale=ru" alt="GitHub statistics" />
+</p>
 
-A desktop companion for Battlegrounds: quick-to-read information, a tidy interface, and less tab-hopping while playing.
+### 
 
-### 🐍 Contribution trail
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beexped7valorant-cmd/beexped7valorant-cmd/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beexped7valorant-cmd/beexped7valorant-cmd/output/github-snake.svg" />
-  <img alt="Animated snake following my GitHub contribution graph" src="https://raw.githubusercontent.com/beexped7valorant-cmd/beexped7valorant-cmd/output/github-snake.svg" />
-</picture>
-
-<sub>Snake artwork refreshes daily through GitHub Actions.</sub>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beexped7valorant-cmd/beexped7valorant-cmd/refs/heads/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beexped7valorant-cmd/beexped7valorant-cmd/refs/heads/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/beexped7valorant-cmd/beexped7valorant-cmd/refs/heads/output/github-snake.svg" />
+  </picture>
+</p>
