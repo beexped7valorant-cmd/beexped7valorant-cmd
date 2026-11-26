@@ -1,6 +1,6 @@
-<h1 align="center">🐉 beexped / building BG Copilot</h1>
+<h1 align="center">🐉 beexped / BG Copilot</h1>
 
-<p align="center">A Hearthstone Battlegrounds desktop overlay</p>
+<p align="center">Hearthstone Battlegrounds desktop overlay</p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
@@ -10,13 +10,19 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
 </div>
 
-### 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" />
+</div>
+
+###
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=beexped7valorant-cmd&theme=bear&show_icons=true&hide_border=true&count_private=false&locale=ru" alt="GitHub statistics" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=beexped7valorant-cmd&theme=radical&show_icons=true&hide_border=true&count_private=false&locale=ru" alt="GitHub statistics" />
 </p>
 
-### 
+###
 
 <p align="center">
   <picture>
